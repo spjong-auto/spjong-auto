@@ -10,7 +10,10 @@
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @connect      docs.google.com
 // @run-at       document-end
+// @updateURL    https://raw.githubusercontent.com/spjong-auto/spjong-auto/refs/heads/main/SJAutoB.js
+// @downloadURL  https://raw.githubusercontent.com/spjong-auto/spjong-auto/refs/heads/main/SJAutoB.js
 // ==/UserScript==
+
 
 (async function() {
     'use strict';
