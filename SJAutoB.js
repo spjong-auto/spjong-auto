@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         숲종갤용 자동 갱차
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0
 // @description  갱차 파싱 및 자동 갱차 by 결챠니
 // @match        https://gall.dcinside.com/*
 // @grant        GM_xmlhttpRequest
