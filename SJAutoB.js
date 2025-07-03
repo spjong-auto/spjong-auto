@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         숲종갤용 자동 갱차
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  갱차 파싱 및 자동 갱차 by 결챠니
 // @match        https://gall.dcinside.com/*
 // @grant        GM_xmlhttpRequest
@@ -16,7 +16,7 @@
     'use strict';
 
     const CONFIG = {
-        SHEET_ID: '1gGoeiHZ21ob86Xri7FJf52avmlvgFdG-o-7hSDlCmZ0',
+        SHEET_ID: '1gGoeiHZ21ob86Xri7FJf52avmlvgFdG-o-7hSDlCmZ0',      // get banned-people data from the sheet 
         BAN_DURATION: 744, // 31
         REALTIME_CONTENT_LOAD: true,
         MAX_CONCURRENT_LOADS: 5
